@@ -1,0 +1,73 @@
+('B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+ '3\\IPPR\\GUIMaking\\build\\cli\\cli.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\build\\cli\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\build\\cli\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\build\\cli\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\build\\cli\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\build\\cli\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'b:\\one drive\\onedrive - asia pacific university\\year '
+   '3\\ippr\\guimaking\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('cli',
+   'B:\\One drive\\OneDrive - Asia Pacific University\\YEAR '
+   '3\\IPPR\\GUIMaking\\cli.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
